@@ -23,4 +23,6 @@ python -m ipykernel install --user --name llm_env
 ```
 - 파이썬과 mysql 연동하기 위한 라이브러리
 pip install pymysql
+pip install python-dotenv
+pip install pygame
 ```
